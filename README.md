@@ -1,16 +1,23 @@
 # bmi_app
 
-A new Flutter project.
+A basic flutter app to calculate the BMI.
+
+## Availability
+
+| Platform | Is available |
+|----------|--------------|
+| ANDROID  | yes          |
+| IOS      | no           |
+| WINDOWS  | no           |
+| LINUX    | no           |
+| WEB      | no           |
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To install the app you can download the latest apk from the [github release](https://github.com/shreyanshu-shubham/bmi_app/releases) pages and install it on your phone
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|       Splash Screen       |     Calculation Page      |
+|:-------------------------:|:-------------------------:|
+| ![](documentation/01.png) | ![](documentation/02.png) |
